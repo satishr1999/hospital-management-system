@@ -10,5 +10,5 @@ Hospital Management System (website)
 ### Server : localhost
 
 ## Thank you!
-P.S. This project was created as DBMS project in college, this may have errors.
+P.S. This project was created as DBMS project in college, may have errors.
 © 2020 GitHub, Inc.

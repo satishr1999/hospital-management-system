@@ -1,7 +1,0 @@
-Database Name : ehospital
-
-Username : root
-
-Password : ""  (NULL)
-
-Server : localhost
